@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"800cf53662c62287","type":"file","file":"3. Общие/1. Атлетика/1. Атлетика (ТЕЛ).md","x":-460,"y":-80,"width":760,"height":160},
+		{"id":"07cf6ee9c5838c57","type":"file","file":"3. Общие/1. Атлетика/Атлет (Ученик).md","x":-460,"y":140,"width":760,"height":160,"color":"4"},
+		{"id":"ccdac88038302f5c","type":"text","text":"15 ОП","x":-620,"y":140,"width":123,"height":60,"color":"3"},
+		{"id":"7f8e21cd421fca81","type":"file","file":"3. Общие/1. Атлетика/Марафонец.md","x":-460,"y":340,"width":340,"height":230,"color":"4"},
+		{"id":"517993e3fff721a2","type":"file","file":"3. Общие/1. Атлетика/Метатель.md","x":-40,"y":340,"width":340,"height":230,"color":"4"},
+		{"id":"88abdf5256148b45","type":"file","file":"3. Общие/1. Атлетика/Борец.md","x":-250,"y":600,"width":340,"height":230,"color":"4"},
+		{"id":"f7d313e76c181f64","type":"file","file":"3. Общие/1. Атлетика/Атлет (Мастер).md","x":-460,"y":860,"width":760,"height":160,"color":"5"},
+		{"id":"735bacc5debd58ab","type":"text","text":"10 ОП","x":-620,"y":340,"width":123,"height":60,"color":"3"},
+		{"id":"cb1905d3907410c1","type":"text","text":"25 ОП","x":-620,"y":860,"width":123,"height":60,"color":"3"},
+		{"id":"aab8d823dff0ad08","type":"text","text":"20 ОП","x":-620,"y":1060,"width":123,"height":60,"color":"3"},
+		{"id":"e690e739f6f6939f","type":"file","file":"3. Общие/1. Атлетика/Скалолаз.md","x":-40,"y":1060,"width":340,"height":230,"color":"5"},
+		{"id":"a28a5b8ae2541f22","type":"file","file":"3. Общие/1. Атлетика/Костолом.md","x":-460,"y":1060,"width":340,"height":230,"color":"5"},
+		{"id":"b81b64e7e681666e","x":-250,"y":1320,"width":340,"height":230,"color":"5","type":"file","file":"3. Общие/1. Атлетика/Атлетический прыжок.md"},
+		{"id":"f3d3e0bd388a151d","x":-460,"y":1580,"width":760,"height":160,"color":"6","type":"file","file":"3. Общие/1. Атлетика/Атлет (Эксперт).md"},
+		{"id":"14c7ff2223edd5cb","type":"text","text":"35 ОП","x":-620,"y":1580,"width":123,"height":60,"color":"3"},
+		{"id":"cf6a92e6646a3e85","x":-460,"y":1780,"width":340,"height":230,"color":"6","type":"file","file":"3. Общие/1. Атлетика/Железные тиски.md"},
+		{"id":"add5566a8c881ba1","x":-40,"y":1780,"width":340,"height":230,"color":"6","type":"file","file":"3. Общие/1. Атлетика/Чудовищное отбрасывание.md"},
+		{"id":"ecb406905f22ffe0","type":"text","text":"30 ОП","x":-620,"y":1780,"width":123,"height":60,"color":"3"}
+	],
+	"edges":[]
+}
