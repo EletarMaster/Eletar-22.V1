@@ -34,7 +34,7 @@
 		{"id":"1eb0a17a91af50f6","type":"text","text":"35 ОП","x":340,"y":1580,"width":123,"height":60,"color":"3"},
 		{"id":"845d98cccc3e7f71","type":"file","file":"3. Общие/2. Акробатика/Вертикальная мобильность.md","x":500,"y":1780,"width":340,"height":230,"color":"6"},
 		{"id":"f1d25c08b2b0fc9f","type":"text","text":"30 ОП","x":340,"y":1780,"width":123,"height":60,"color":"3"},
-		{"id":"ae59e7ff4e1dbe2e","type":"file","file":"3. Общие/2. Акробатика/В последний момент.md","x":920,"y":1780,"width":340,"height":230,"color":"6"}
+		{"id":"ae59e7ff4e1dbe2e","type":"file","file":"3. Общие/2. Акробатика/Подстраховка.md","x":920,"y":1780,"width":340,"height":230,"color":"6"}
 	],
 	"edges":[]
 }
