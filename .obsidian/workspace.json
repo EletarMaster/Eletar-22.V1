@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "5c53a8971e609651",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d14892ae773bdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d699b8fc9d6277",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. Диаграммы/4. Ближний бой.canvas",
+                "viewState": {
+                  "x": 2929.315614632285,
+                  "y": 3798.5086714821305,
+                  "zoom": -0.09162763102981841
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "4. Ближний бой"
+            }
+          },
+          {
+            "id": "204f80b243a2e609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Способности/4. Ближний бой/2. Специализации/13. Головорез/Стальной рывок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стальной рывок"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab0af59c92283d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5e8174344ef20c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1ee09b978a78b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c2385ace54707139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "26ed442e71b82947",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e884185d5e5dfe61",
+    "type": "split",
+    "children": [
+      {
+        "id": "65c4e9a0329a5a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43210c6bb4eeaa96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Диаграммы/4. Ближний бой.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 4. Ближний бой"
+            }
+          },
+          {
+            "id": "088a67b4947f30dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Диаграммы/4. Ближний бой.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 4. Ближний бой"
+            }
+          },
+          {
+            "id": "2a1ede0939fc89fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e33e91c158bfcc84",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "99c9bc8b356dc319",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Диаграммы/4. Ближний бой.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 4. Ближний бой"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "floating": {
+    "id": "27235ede8e286e53",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7efff0c5611066b0",
+        "type": "window",
+        "children": [
+          {
+            "id": "e5a77416f3fc79d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae340542ea821ce3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "0. Диаграммы/4. Ближний бой.canvas",
+                    "viewState": {
+                      "x": 3099.7949597513825,
+                      "y": 4182.106083906413,
+                      "zoom": -0.4249609643631517
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "4. Ближний бой"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 464,
+        "y": 22,
+        "width": 2216,
+        "height": 1352,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ae340542ea821ce3",
+  "lastOpenFiles": [
+    "4. Способности/4. Ближний бой/2. Специализации/14. Перехватчик/Непредсказуемое нападение.md",
+    "4. Способности/4. Ближний бой/2. Специализации/13. Головорез/Стальной рывок.md",
+    "0. Диаграммы/4. Ближний бой.canvas",
+    "4. Способности/4. Ближний бой/2. Специализации/14. Перехватчик/Добивание наемника.md",
+    "4. Способности/4. Ближний бой/2. Специализации/13. Головорез/Стальной вихрь.md",
+    "4. Способности/4. Ближний бой/2. Специализации/2. Палач/Карающий удар.md",
+    "4. Способности/4. Ближний бой/2. Специализации/3. Берсерк/Вколачивание противника.md",
+    "4. Способности/4. Ближний бой/2. Специализации/14. Перехватчик/Ката стрелка.md",
+    "0. Диаграммы/3. Общие.canvas",
+    "0. Диаграммы/2. Ресурсы.canvas",
+    "4. Способности/4. Ближний бой/2. Специализации/14. Перехватчик/Наемник (Мастер).md",
+    "4. Способности/4. Ближний бой/2. Специализации/14. Перехватчик/14. Наемник (ТЕЛ; ЛОВ; ВОС).md"
+  ]
+}
